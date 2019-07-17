@@ -125,4 +125,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 DEBUG = False
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.salmonjg.site']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '47.93.202.213']
